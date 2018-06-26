@@ -63,3 +63,4 @@
 #*.RTF   diff=astextplain
 
 Vidly/Scripts/* linguist-vendored
+Vidly/Content/* linguist-vendored
